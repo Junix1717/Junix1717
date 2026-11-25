@@ -1,4 +1,4 @@
-Hi there!
+# Hi there!
 
 I'm a Computer Engineering student at Tecnológico de Costa Rica (TEC), passionate about software development, artificial intelligence and technology.
 
